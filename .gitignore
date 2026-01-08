@@ -180,3 +180,9 @@ mlruns/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+
+scores.json
+*.h5
+*.keras
+
