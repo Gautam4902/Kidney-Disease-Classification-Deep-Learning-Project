@@ -182,7 +182,5 @@ mlruns/
 .ipynb_checkpoints/
 
 
-scores.json
-*.h5
-*.keras
+
 Dataset/
